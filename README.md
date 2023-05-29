@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently looking for an internship as a developer.
 
-- 📚 Evolving with **JavaScript, Typescript, ReactNative, React.js, HTML, CSS**
+- 📚 Evolving with **JavaScript, Typescript, ReactNative, React.js, Next.js, HTML, CSS**
 
 
 
