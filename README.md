@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently looking for an internship as a developer.
 
-- 📚 Evolving with **JavaScript, Typescript, ReactNative, React.js, Next.js, HTML, CSS**
+- 📚 Evolving with **JavaScript, Typescript, Vue.js, React.js, Next.js, ReactNative, HTML, CSS**
 
 
 
@@ -16,9 +16,10 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; 
+![React.js](https://img.shields.io/badge/-React.js-05122A?style=flat&logo=react)&nbsp; 
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next)&nbsp;
+![ReactNative](https://img.shields.io/badge/-ReactNative-05122A?style=flat&logo=react)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
