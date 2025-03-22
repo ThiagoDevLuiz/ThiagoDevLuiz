@@ -1,10 +1,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Thiago Luiz</h1>
 
-- 🔥 Systems analysis and development student
+- 🔥 Front-end Developer
 
-- 🔭 I'm currently looking for an internship as a developer.
+- 🔭 Currently looking to evolve even further professionally
 
-- 📚 Evolving with **JavaScript, Typescript, Vue.js, React.js, Next.js, ReactNative, HTML, CSS**
+- 📚 Evolving with **JavaScript, Typescript, Vue.js, Nuxt.js, React.js, Next.js, ReactNative, HTML, CSS**
 
 
 
@@ -31,9 +31,6 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/thiagodevluiz" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-thiagodevluiz-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://www.linkedin.com/in/thiago-luiz-dev/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-thiagodevluiz-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
